@@ -1,0 +1,170 @@
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\appsettings.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.staticwebassets.runtime.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.staticwebassets.endpoints.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.exe
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.deps.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.runtimeconfig.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.dll
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.pdb
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.AssemblyInfoInputs.cache
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.AssemblyInfo.cs
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.csproj.CoreCompileInputs.cache
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\bundle\BlazorApp3.styles.css
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\projectbundle\BlazorApp3.bundle.scp.css
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\nge5qi0n8a-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ptg39uyujx-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\3brxcp40xr-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\xinectpy6k-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\rnyi0e6dx1-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\qiss2f0fcg-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\fr4bmoivkt-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\0jmdmpmovk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ekfoick7jn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\5klft0ue85-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\rc3uhd4w4c-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\0yifudu72c-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\crr33w9986-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\7i99x8di36-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\40mrv40zvc-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\bk0hrarn2g-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\wd8oeumhj8-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\rygy61tzhe-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\v9t8tcng7o-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ek1gcyal50-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2fqtxkilpv-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2ddff9w8gf-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\h690epcbub-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\3z0k74d1ao-{0}-06098lyss8-06098lyss8.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\tw5ge6igqv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2lfwrgzuz7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\3mv8eyjah5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\63gg0pid89-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ndkplid73g-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\qg4x103zpt-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\nmn8577cxt-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\1n4gczbihf-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\xy6hd34yrh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\fe1iry0k3p-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\dcy8p6vim2-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\6tzbd7yc5f-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\j853tbxat1-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ixezhoyxzr-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\dmh2kwgqrp-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\f3ylfmivb8-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ebq7krz02e-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\j0gbxruygg-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\cy5ffb57qv-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\onlvowh4ot-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2iwvu6bzjw-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\0z9b0h7iry-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\n1wh0xrmnt-{0}-b9228eflpl-b9228eflpl.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\66p3poj2m9-{0}-2tj1sjhksk-2tj1sjhksk.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\g946jmuy42-{0}-mmhkwg284d-mmhkwg284d.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\k6lbeutr4j-{0}-mmhkwg284d-mmhkwg284d.gz
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.dll
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\refint\BlazorApp3.dll
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.pdb
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.genruntimeconfig.cache
+C:\Users\desai\Desktop\Dotnet Projects\Blazors\BlazorApp3\obj\Debug\net10.0\ref\BlazorApp3.dll
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\appsettings.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.staticwebassets.endpoints.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.staticwebassets.runtime.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.exe
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.deps.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.runtimeconfig.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.dll
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\bin\Debug\net10.0\BlazorApp3.pdb
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.AssemblyInfoInputs.cache
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.AssemblyInfo.cs
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.csproj.CoreCompileInputs.cache
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\bundle\BlazorApp3.styles.css
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\scopedcss\projectbundle\BlazorApp3.bundle.scp.css
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\nge5qi0n8a-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ptg39uyujx-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\3brxcp40xr-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\xinectpy6k-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\rnyi0e6dx1-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\qiss2f0fcg-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\fr4bmoivkt-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\0jmdmpmovk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ekfoick7jn-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\5klft0ue85-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\rc3uhd4w4c-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\0yifudu72c-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\crr33w9986-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\7i99x8di36-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\40mrv40zvc-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\bk0hrarn2g-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\wd8oeumhj8-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\rygy61tzhe-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\v9t8tcng7o-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ek1gcyal50-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2fqtxkilpv-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2ddff9w8gf-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\h690epcbub-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\3z0k74d1ao-{0}-06098lyss8-06098lyss8.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\tw5ge6igqv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2lfwrgzuz7-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\3mv8eyjah5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\63gg0pid89-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ndkplid73g-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\qg4x103zpt-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\nmn8577cxt-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\1n4gczbihf-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\xy6hd34yrh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\fe1iry0k3p-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\dcy8p6vim2-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\6tzbd7yc5f-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\j853tbxat1-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ixezhoyxzr-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\dmh2kwgqrp-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\f3ylfmivb8-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\ebq7krz02e-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\j0gbxruygg-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\cy5ffb57qv-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\onlvowh4ot-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\2iwvu6bzjw-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\0z9b0h7iry-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\n1wh0xrmnt-{0}-b9228eflpl-b9228eflpl.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\66p3poj2m9-{0}-2tj1sjhksk-2tj1sjhksk.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\g946jmuy42-{0}-mmhkwg284d-mmhkwg284d.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\compressed\k6lbeutr4j-{0}-mmhkwg284d-mmhkwg284d.gz
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.dll
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\refint\BlazorApp3.dll
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.pdb
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\BlazorApp3.genruntimeconfig.cache
+C:\Users\desai\Desktop\Sources\Blazors\BlazorApp3\obj\Debug\net10.0\ref\BlazorApp3.dll

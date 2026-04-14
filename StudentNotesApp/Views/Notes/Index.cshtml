@@ -1,0 +1,40 @@
+@model List<StudentNotesApp.Models.Note>
+
+@{
+    ViewData["Title"] = "My Notes";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>📝 My Notes</h2>
+        <a asp-action="Create" class="btn btn-primary">+ New Note</a>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">No notes yet. Create one!</div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var note in Model)
+            {
+                <div class="col-md-4 mb-3">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">@note.Title</h5>
+                            <p class="card-text">@note.Content</p>
+                            <small class="text-muted">@note.Created.ToString("MMM dd, yyyy")</small>
+                            <br />
+                            <a asp-action="Delete" asp-route-id="@note.Id"
+                               class="btn btn-sm btn-danger mt-2"
+                               onclick="return confirm('Delete this note?')">
+                               🗑 Delete
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
